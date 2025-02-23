@@ -836,8 +836,8 @@ video {
   height: 100vh;
 }
 
-.h-\[150px\] {
-  height: 150px;
+.h-\[200px\] {
+  height: 200px;
 }
 
 .h-\[235px\] {
@@ -868,16 +868,12 @@ video {
   height: auto;
 }
 
-.h-\[20px\] {
-  height: 20px;
+.h-\[\] {
+  height: ;
 }
 
-.h-\[200px\] {
-  height: 200px;
-}
-
-.h-\[210px\] {
-  height: 210px;
+.h-\[150px\] {
+  height: 150px;
 }
 
 .w-10 {
